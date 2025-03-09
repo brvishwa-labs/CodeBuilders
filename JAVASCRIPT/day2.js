@@ -13,3 +13,7 @@ console.log(typeof(c));
 let d=true;
 console.log(d);
 console.log(typeof(d));
+//  implesit type coersion 
+let y="5"+10;
+console.log(y);
+console.log(typeof(y));
