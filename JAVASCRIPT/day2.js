@@ -17,3 +17,8 @@ console.log(typeof(d));
 let y="5"+10;
 console.log(y);
 console.log(typeof(y));
+// explesit type coersion 
+let n="10";
+let j=Number(n);
+console.log(j);
+console.log(typeof(j));
